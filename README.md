@@ -1,0 +1,1 @@
+# mtb-edgeimpulse-ce-manifest
