@@ -8,11 +8,11 @@
     <br><br>For more details, see the <a href="https://github.com/edgeimpulse/mtb-example-edgeimpulse-continuous-motion/blob/main/README.md">README on GitHub</a>.<br><br><a href="https://edgeimpulse.com/">Edge Impulse</a> is the leading development platform for machine learning on edge devices, free for developers and trusted by enterprises..<br> > <a href="https://docs.edgeimpulse.com/docs/~/revisions/9dKGATK7EnFnYNRMlqcb/development-platforms/officially-supported-mcu-targets/infineon-cy8ckit-062s2">Get Started</a><br> > <a href="https://edgeimpulse.com/contact">Talk to Support</a>]]></description>
     <req_capabilities>psoc6</req_capabilities>
     <versions>
-      <version flow_version="2.0" tools_min_version="3.0.0" req_capabilities_per_version="bsp_gen4">
+      <version flow_version="2.0" tools_min_version="3.0.0" tools_max_version="3.0.0" req_capabilities_per_version="bsp_gen4">
         <num>2.0.0 release</num>
         <commit>release-v2.0.0</commit>
       </version>
-      <version flow_version="2.0" tools_min_version="2.4.0" req_capabilities_per_version="bsp_gen3">
+      <version flow_version="2.0" tools_min_version="2.4.0" tools_max_version="2.4.0" req_capabilities_per_version="bsp_gen3">
         <num>1.0.3 release</num>
         <commit>release-v1.0.3</commit>
       </version>
