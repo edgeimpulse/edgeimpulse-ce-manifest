@@ -1,5 +1,5 @@
 <apps version="2.0">
-  <app keywords="psoc6,edgeimpulse,edgeml,ml,ai,motion,gesture" req_capabilities_v2="[cy8ckit_062s2_43012,cy8ckit_062-ble]">
+  <app keywords="psoc6,edgeimpulse,edgeml,ml,ai,motion,gesture" req_capabilities_v2="[cy8ckit_062s2_43012,cy8ckit_062_ble]">
     <name>EdgeImpulse Continuous Motion recognition</name>
     <category>Machine Learning</category>
     <id>edgeimpulse-example-continuous-motion-recognition</id>
@@ -18,7 +18,7 @@
       </version>
     </versions>
   </app>
-  <app keywords="psoc6,edgeimpulse,edgeml,ml,ai,keyword,spotting" req_capabilities_v2="[cy8ckit_062s2_43012,cy8ckit_062-ble]">
+  <app keywords="psoc6,edgeimpulse,edgeml,ml,ai,keyword,spotting" req_capabilities_v2="[cy8ckit_062s2_43012,cy8ckit_062_ble]">
     <name>EdgeImpulse Keyword Recognition</name>
     <category>Machine Learning</category>
     <id>edgeimpulse-example-keyword-spotting</id>
